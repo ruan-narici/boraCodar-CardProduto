@@ -18,4 +18,4 @@ O usuário tem a possibilidade de excluir ou finalizar a compra após adicionar 
 
 
 ## Pré-visualização
-![GIF do Desafio-01](./assets/img/preview.gif#vitrinedev)
+![GIF do Desafio-2](./assets/img/preview.gif#vitrinedev)

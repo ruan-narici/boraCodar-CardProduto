@@ -6,7 +6,7 @@
 | :checkered_flag: INICIADO EM | 11/01/2023 |
 | 	:white_check_mark: FINALIZADO EM | 11/01/2023 |
 | 	:gear: TECNOLOGIAS | Figma, HTML5, CSS3, Javascript |
-| :globe_with_meridians: URL | |
+| :globe_with_meridians: URL | https://ruan-narici.github.io/boraCodar-CardProduto/ |
 | 	:person_fencing: DESAFIO | Recriar o layout de um Card de Produto |
 
 ## Detalhes 
